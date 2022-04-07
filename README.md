@@ -1,3 +1,2 @@
 # EasyPay-Bank---Basic-Banking-System
-Basic Banking System
-easypayforu.000webhostapp.com
+https://easypayforu.000webhostapp.com/index.php
